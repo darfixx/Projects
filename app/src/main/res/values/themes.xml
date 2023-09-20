@@ -1,6 +1,6 @@
 <resources>
     <!-- Base application theme. -->
-    <style name="Base.Theme.DarfiSAndroidLabs" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.DarfiSAndroidLabs" parent="Theme.Material3.DayNight">
 
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/my_primary</item>
@@ -10,6 +10,19 @@
         <item name="android:statusBarColor">@color/my_statusbar</item>
         <!-- Text color-->
         <item name="android:textColor">#CA4B23</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     </style>
 
