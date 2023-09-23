@@ -11,19 +11,6 @@
         <!-- Text color-->
         <item name="android:textColor">#CA4B23</item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     </style>
 
     <style name="Theme.DarfiSAndroidLabs" parent="Base.Theme.DarfiSAndroidLabs" />
