@@ -5,26 +5,56 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".ui.MainActivity">
 
     <TextView
         android:id="@+id/mytextview"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_message"/>
+        android:layout_width="199dp"
+        android:layout_height="43dp"
+        android:text="@string/hello_message" />
 
     <Button
 
         android:id="@+id/mybutton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="188dp"
+        android:layout_height="82dp"
         android:text="@string/button_message" />
 
     <EditText
 
         android:id="@+id/mytext"
+        android:layout_width="112dp"
+        android:layout_height="82dp"
+        android:text="@string/edittext_message" />
+
+    <CheckBox
+        android:id="@+id/thecheckbox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/edittext_message" />
+        android:text="I am a checkbox" />
+
+    <Switch
+        android:id="@+id/theswitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I am a switch" />
+
+    <RadioButton
+        android:id="@+id/theradiobutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I am a radiobutton" />
+
+    <ImageView
+        android:src="@drawable/image"
+        android:id="@+id/theimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageButton
+        android:src="@drawable/image"
+        android:id="@+id/theimagebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
