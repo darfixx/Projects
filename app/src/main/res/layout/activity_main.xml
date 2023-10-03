@@ -73,6 +73,12 @@
         app:srcCompat="@drawable/flag" />
 
     <Switch
+
+        android:nextFocusUp="@id/button1"
+        android:nextFocusDown="@id/button1"
+        android:nextFocusRight="@id/spin_switch"
+        android:nextFocusLeft="@id/spin_switch"
+
         android:id="@+id/spin_switch"
         android:layout_width="115dp"
         android:layout_height="46dp"
