@@ -15,7 +15,7 @@
     <Button
 
         android:nextFocusUp="@id/button1"
-        android:nextFocusDown="@id/button1"
+        android:nextFocusDown="@id/spin_switch"
         android:nextFocusRight="@id/button2"
         android:nextFocusLeft="@id/button3"
 
@@ -33,7 +33,7 @@
     <Button
 
         android:nextFocusUp="@id/button2"
-        android:nextFocusDown="@id/button2"
+        android:nextFocusDown="@id/spin_switch"
         android:nextFocusRight="@id/button3"
         android:nextFocusLeft="@id/button1"
 
@@ -49,7 +49,7 @@
 
     <Button
         android:nextFocusUp="@id/button3"
-        android:nextFocusDown="@id/button3"
+        android:nextFocusDown="@id/spin_switch"
         android:nextFocusRight="@id/button1"
         android:nextFocusLeft="@id/button2"
 
