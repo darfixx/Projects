@@ -3,4 +3,9 @@
     <string name="app_name">Darfi\'S Android Labs</string>
     <string name="hello_message">Azul Fellawn</string>
     <string name="button_message">Guigh abotton</string>
+    <string name="spin_message">zgn tachnyalt</string>
+    <string name="button1">abotton 1</string>
+    <string name="button2">abotton 2</string>
+    <string name="button3">abotton 3</string>
+
 </resources>
